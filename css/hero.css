@@ -70,3 +70,7 @@ p.caption{
     font-style: italic;
     margin-top: 0;
 }
+
+footer a{
+    color: limegreen;
+}
